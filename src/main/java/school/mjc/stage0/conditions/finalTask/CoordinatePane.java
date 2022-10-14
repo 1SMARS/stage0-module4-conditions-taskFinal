@@ -30,5 +30,5 @@ public class CoordinatePane {
         else
             System.out.println("zero");
     }
-    }
+    
 }
